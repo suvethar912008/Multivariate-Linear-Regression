@@ -26,15 +26,17 @@ Use the model to make a prediction with new input data.
 
 
 ## Program:
-```
+<img width="1170" height="438" alt="Screenshot 2025-12-17 161735" src="https://github.com/user-attachments/assets/17197e59-d0ab-4830-becd-abaf2052b771" />
 
 
 
 
 
 
-```
+
+
 ## Output:
+<img width="1170" height="438" alt="Screenshot 2025-12-17 161735" src="https://github.com/user-attachments/assets/c5867396-94ed-4f50-a3f0-129e15b58ab0" />
 
 ### Insert your output
 
